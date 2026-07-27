@@ -26,13 +26,15 @@ Participantes:
 - **Adso Castro (Grafana Champion)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Prometheus, Grafana, Tempo, Loki, Microsoft Azure, Azure DevOps, Kubernetes, Docker, Containers, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, MCP, Segurança, Cybersegurança...**
+Tecnologias e tópicos abordados: **OpenTelemetry, Prometheus, Grafana, Tempo, Loki, Microsoft Azure, Azure DevOps, Kubernetes, Docker, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, MCP, Segurança, Cybersegurança...**
 
-_# MCP + Playwright: como construir testes mais inteligentes_
+_# FinOps na Prática: Visibilidade de Custos em Cloud_
 
-Palestrante: **Fábio Araújo (QA Lead, Dev Referências)**
+Palestrantes:
+- **Douglas Lima da Silva Martins (FIAP)**
+- **Lucas Alixandre (FIAP)**
 
-Tecnologias e tópicos abordados: **Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
+Tecnologias e tópicos abordados: **FinOps, DevOps, DevOps, Observabilidade, Monitoramento, Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
 
 _# Mais IA, menos liderança: o risco que ninguém está discutindo_
 
