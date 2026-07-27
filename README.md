@@ -8,3 +8,7 @@ Organizadores:
 - **Tiago Moreira Vieira (Grafana)**
 - **Adso Castro (Grafana Champion)**
 - **Douglas Lima da Silva Martins (FIAP)**
+
+Número de participantes: **35 pessoas**
+
+Deixo aqui meus agradecimentos à **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira)** e à **FIAP (Marcelo Marchi, Mateus Santos, Joab Junior, Roberto Shinoda, Thiago Medeiros)** por todo o apoio para que o evento acontecesse.
