@@ -39,7 +39,7 @@ Palestrantes:
 - **Douglas Lima da Silva Martins (FIAP)**
 - **Lucas Alixandre (FIAP)**
 
-Tecnologias e tópicos abordados: **FinOps, DevOps, DevOps, Observabilidade, Monitoramento, Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
+Tecnologias e tópicos abordados: **FinOps, DevOps, Kubernetes, OpenCost, Prometheus, Observabilidade, Monitoramento, Inteligência Artificial...**
 
 ---
 
