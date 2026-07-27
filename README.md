@@ -13,7 +13,6 @@ Número de participantes: **35 pessoas**
 
 Deixo aqui meus agradecimentos à **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira)** e à **FIAP (Andréa Paiva, Rubens Rodrigues, Douglas Lima da Silva Martins, Gerson Osorio, Erica Carvalho, Michelle Cavalaro)** por todo o apoio para que o evento acontecesse.
 
-
 ---
 
 Apresentações/talks que aconteceram durante o evento:
@@ -28,11 +27,11 @@ Participantes:
 
 Tecnologias e tópicos abordados: **OpenTelemetry, Prometheus, Grafana, Tempo, Loki, Microsoft Azure, Azure DevOps, Kubernetes, Docker, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, MCP, Segurança, Cybersegurança...**
 
-_# Mais IA, menos liderança: o risco que ninguém está discutindo_
+_# GrafanaCON Recap: principais novidades na stack Grafana_
 
-Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
+Palestrante: **Guilherme Caulada (Grafana Labs)**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
+Tecnologias e tópicos abordados: **Grafana Assistant, Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
 
 _# FinOps na Prática: Visibilidade de Custos em Cloud_
 
