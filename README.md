@@ -28,6 +28,12 @@ Participantes:
 
 Tecnologias e tópicos abordados: **OpenTelemetry, Prometheus, Grafana, Tempo, Loki, Microsoft Azure, Azure DevOps, Kubernetes, Docker, Containers, DevOps, Observabilidade, Monitoramento, Inteligência Artificial, LLMs, MCP, Segurança, Cybersegurança...**
 
+_# Mais IA, menos liderança: o risco que ninguém está discutindo_
+
+Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
+
 _# FinOps na Prática: Visibilidade de Custos em Cloud_
 
 Palestrantes:
@@ -35,30 +41,6 @@ Palestrantes:
 - **Lucas Alixandre (FIAP)**
 
 Tecnologias e tópicos abordados: **FinOps, DevOps, DevOps, Observabilidade, Monitoramento, Playwright, LLMs, Inteligência Artificial, MCP, Testes de Software, Qualidade de Software, Produtividade...**
-
-_# Mais IA, menos liderança: o risco que ninguém está discutindo_
-
-Palestrante: **Cilene Danta (Café em Código), Michael Silva (Café em Código)**
-
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
-
-_# GitHub Agentic Workflows: automatize tudo o que você precisar_
-
-Palestrante: **Vinicius Moura (Microsoft MVP)**
-
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Microsoft Azure, Azure Container Apps...**
-
-_# Carreira para Devs serem insubstituíveis na era da IA_
-
-Palestrante: **Larissa Azevedo (Microsoft MVP)**
-
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, Desenvolvimento de Software, Carreira em TI, Desenvolvimento Web...**
-
-_# Como o GitHub Copilot + MCPs podem ser úteis no setup inicial e documentação de novas aplicações?_
-
-Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC), Milton Camara Gomes (Microsoft MVP, MTAC)**
-
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, GitHub Copilot, Inteligência Artificial, DevOps, LLMs, AI Agents, MCP, .NET, C#, ASP.NET Core, Minimal APIs, Docker, Containers, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry...**
 
 ---
 
