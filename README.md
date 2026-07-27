@@ -31,7 +31,7 @@ _# GrafanaCON Recap: principais novidades na stack Grafana_
 
 Palestrante: **Guilherme Caulada (Grafana Labs)**
 
-Tecnologias e tópicos abordados: **Grafana Assistant, Inteligência Artificial, LLMs, Produtividade, Liderança, Desenvolvimento de Software, Carreira em TI...**
+Tecnologias e tópicos abordados: **Grafana, Grafana Assistant, Tempo, Loki, Prometheus, OpenTelemetry, Inteligência Artificial, Desenvolvimento de Software, Infraestrutura, Containers, Kubernetes...**
 
 _# FinOps na Prática: Visibilidade de Custos em Cloud_
 
