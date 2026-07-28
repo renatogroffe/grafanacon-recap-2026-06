@@ -53,6 +53,8 @@ Local: **FIAP - Avenida Paulista, 1106 - 4o andar - Bela Vista - São Paulo/SP**
 
 ---
 
+![Abertura](img/abertura-01.jpeg)
+
 ![Painel 1](img/painel-01.jpeg)
 
 ![Painel 2](img/painel-02.jpeg)
@@ -70,3 +72,7 @@ Local: **FIAP - Avenida Paulista, 1106 - 4o andar - Bela Vista - São Paulo/SP**
 ![Douglas e Lucas palestrando 2](img/finops-02.jpeg)
 
 ![Douglas e Lucas palestrando 3](img/finops-03.jpeg)
+
+![Coffee-break](img/recap-03.jpeg)
+
+![Palestrantes ao final do evento](img/palestrantes-01.jpeg)
