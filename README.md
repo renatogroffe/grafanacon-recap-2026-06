@@ -75,4 +75,6 @@ Local: **FIAP - Avenida Paulista, 1106 - 4o andar - Bela Vista - São Paulo/SP**
 
 ![Coffee-break](img/recap-03.jpeg)
 
+![Público do evento](img/publico-01.jpeg)
+
 ![Palestrantes ao final do evento](img/palestrantes-01.jpeg)
