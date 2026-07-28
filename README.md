@@ -11,7 +11,7 @@ Organizadores:
 
 Número de participantes: **35 pessoas**
 
-Deixo aqui meus agradecimentos à **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira)** e à **FIAP (Andréa Paiva, Rubens Rodrigues, Douglas Lima da Silva Martins, Gerson Osorio, Erica Carvalho, Michelle Cavalaro)** por todo o apoio para que o evento acontecesse.
+Deixo aqui meus agradecimentos à **Grafana Labs (Ewa Magiera, Shanna Gregory, Tiago Moreira Vieira)** e à **FIAP (Andréa Paiva, Rubens Rodrigues, Douglas Lima da Silva Martins, Thiago Adriano, Gerson Osorio, Erica Carvalho, Michelle Cavalaro)** por todo o apoio para que o evento acontecesse.
 
 ---
 
