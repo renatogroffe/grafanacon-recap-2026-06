@@ -1,4 +1,4 @@
-# grafanacon-recap-2026-06
+# GrafanaCON Recap 2026 - São Paulo/Brasil
 Fotos e informações gerais sobre o evento "GrafanaCON Recap", realizado na cidade de São Paulo-SP.
 
 Data: **13/06/2026 (sábado)**
