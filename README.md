@@ -52,3 +52,9 @@ Formulário utilizado para inscrições: [**Meetup**](https://www.meetup.com/pt-
 Local: **FIAP - Avenida Paulista, 1106 - 4o andar - Bela Vista - São Paulo/SP**
 
 ---
+
+![Painel 1](img/painel-01.jpeg)
+
+![Painel 2](img/painel-02.jpeg)
+
+![Painel 3](img/painel-03.jpeg)
